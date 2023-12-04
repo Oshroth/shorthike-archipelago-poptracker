@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Golden Feather",
+        "type": "consumable",
+        "img": "images/icons/icon_feather.png",
+        "disabled_img": "images/icons/icon_feather_grey.png",
+        "max_quantity": 20,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 20,
+        "codes": "feather"
+    },
+    {
+        "name": "Bucket",
+        "type": "toggle",
+        "img": "images/icons/icon_bucket.png",
+        "disabled_img": "images/icons/icon_bucket_grey.png",
+        "codes": "bucket"
+    },
+    {
+        "name": "Fishing Rod",
+        "type": "toggle",
+        "img": "images/icons/icon_fishingRod.png",
+        "disabled_img": "images/icons/icon_fishingRod_grey.png",
+        "codes": "rod"
+    },
+    {
+        "name": "Fishing Journal",
+        "type": "toggle",
+        "img": "images/icons/icon_journal.png",
+        "disabled_img": "images/icons/icon_journal_grey.png",
+        "codes": "journal"
+    },
+    {
+        "name": "Shovel",
+        "type": "toggle",
+        "img": "images/icons/icon_shovel.png",
+        "disabled_img": "images/icons/icon_shovel_grey.png",
+        "codes": "shovel"
+    },
+    {
+        "name": "Toy Shovel",
+        "type": "toggle",
+        "img": "images/icons/icon_toyShovel.png",
+        "disabled_img": "images/icons/icon_toyShovel_grey.png",
+        "codes": "toyshovel"
+    },
+    {
+        "name": "Seashell",
+        "type": "consumable",
+        "img": "images/icons/icon_shell.png",
+        "disabled_img": "images/icons/icon_shell_grey.png",
+        "max_quantity": 23,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 20,
+        "codes": "shell"
+    },
+    {
+        "name": "Shell Necklace",
+        "type": "toggle",
+        "img": "images/icons/icon_necklace.png",
+        "disabled_img": "images/icons/icon_necklace_grey.png",
+        "codes": "necklace"
+    },
+    {
+        "name": "Stick",
+        "type": "toggle",
+        "img": "images/icons/icon_stick.png",
+        "disabled_img": "images/icons/icon_stick_grey.png",
+        "codes": "stick"
+    },
+    {
+        "name": "Motorboat Key",
+        "type": "toggle",
+        "img": "images/icons/icon_key.png",
+        "disabled_img": "images/icons/icon_key_grey.png",
+        "codes": "key"
+    },
+    {
+        "name": "Wristwatch",
+        "type": "toggle",
+        "img": "images/icons/icon_watch.png",
+        "disabled_img": "images/icons/icon_watch_grey.png",
+        "codes": "watch"
+    },
+    {
+        "name": "Headband",
+        "type": "toggle",
+        "img": "images/icons/icon_headband.png",
+        "disabled_img": "images/icons/icon_headband_grey.png",
+        "codes": "headband"
+    },
+    {
+        "name": "Camping Permit",
+        "type": "toggle",
+        "img": "images/icons/icon_permit.png",
+        "disabled_img": "images/icons/icon_permit_grey.png",
+        "codes": "permit"
+    },
+    // Settings
+    {
+        "name": "Golden Feather Logic",
+        "type": "progressive",
+        "allow_disabled": false,
+        "initial_stage_idx": 1,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/easy_logic.png",
+                "codes": "logic,easy",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/normal_logic.png",
+                "codes": "logic,normal",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/hard_logic.png",
+                "codes": "logic,hard",
+                "inherit_codes": false
+            }
+        ]
+    }
+]

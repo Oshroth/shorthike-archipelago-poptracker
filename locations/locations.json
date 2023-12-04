@@ -1,0 +1,1910 @@
+[
+    {
+        "name": "Hawk Peak",
+        "children": [
+            {
+                "name": "Start Beach Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4831,
+                        "y": 1703
+                    }
+                ]
+            },
+            {
+                "name": "Beach Hut Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5760,
+                        "y": 2453
+                    }
+                ]
+            },
+            {
+                "name": "Beach Umbrella Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5733,
+                        "y": 2932
+                    }
+                ]
+            },
+            {
+                "name": "Sid Beach Mound Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6211,
+                        "y": 2956
+                    }
+                ]
+            },
+            {
+                "name": "Sid Beach Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6094,
+                        "y": 3176
+                    }
+                ]
+            },
+            {
+                "name": "Shirley's Point Rock Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5938,
+                        "y": 4233
+                    }
+                ]
+            },
+            {
+                "name": "West River Seashell",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4774,
+                        "y": 4053
+                    }
+                ]
+            },
+            {
+                "name": "West Riverbank Seashell",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4508,
+                        "y": 4077
+                    }
+                ]
+            },
+            {
+                "name": "Stone Tower Riverbank Seashell",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3879,
+                        "y": 3877
+                    }
+                ]
+            },
+            {
+                "name": "North Beach Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2663,
+                        "y": 4371
+                    }
+                ]
+            },
+            {
+                "name": "North Coast Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 1991,
+                        "y": 2616
+                    }
+                ]
+            },
+            {
+                "name": "Boat Cliff Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3139,
+                        "y": 2184
+                    }
+                ]
+            },
+            {
+                "name": "Boat Isle Mound Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3074,
+                        "y": 1853
+                    }
+                ]
+            },
+            {
+                "name": "East Coast Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3641,
+                        "y": 1444
+                    }
+                ]
+            },
+            {
+                "name": "House North Beach Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4233,
+                        "y": 1465
+                    }
+                ]
+            },
+            {
+                "name": "Airstream Island North Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3904,
+                        "y": 1008
+                    }
+                ]
+            },
+            {
+                "name": "Airstream Island South Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4616,
+                        "y": 1101
+                    }
+                ]
+            },
+            {
+                "name": "Secret Island Beach Seashell",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5928,
+                        "y": 1403
+                    }
+                ]
+            },
+            {
+                "name": "Meteor Lake Seashell",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3680,
+                        "y": 2178
+                    }
+                ]
+            },
+            {
+                "name": "Good Creek Path Seashell",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4562,
+                        "y": 3286
+                    }
+                ]
+            },
+            {
+                "name": "Visitor's Center Shop",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Golden Feathers",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Hat",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5741,
+                        "y": 3879
+                    }
+                ]
+            },
+            {
+                "name": "Tough Bird Salesman",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "name": "Golden Feathers",
+                        "item_count": 4
+                    },
+                    {
+                        "name": "Tuition Payment",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3904,
+                        "y": 3561
+                    }
+                ]
+            },
+            {
+                "name": "Beachstickball",
+                "access_rules": ["stick"],
+                "sections": [
+                    {
+                        "name": "10 Hits",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "20 Hits",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "30 Hits",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2080,
+                        "y": 4196
+                    }
+                ]
+            },
+            {
+                "name": "Shovel Kid",
+                "access_rules": ["toyshovel"],
+                "sections": [
+                    {
+                        "name": "Trade Toy Shovel",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sand Castle Golden Feather",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5989,
+                        "y": 3089
+                    }
+                ]
+            },
+            {
+                "name": "Compass Guy",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6027,
+                        "y": 2694
+                    }
+                ]
+            },
+            {
+                "name": "Hawk Peak Bucket Rock",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3567,
+                        "y": 2657
+                    }
+                ]
+            },
+            {
+                "name": "Orange Islands Bucket Rock",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 456,
+                        "y": 3518
+                    }
+                ]
+            },
+            {
+                "name": "Bill the Walrus Fisherman",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3753,
+                        "y": 2038
+                    }
+                ]
+            },
+            {
+                "name": "Fish Buyer",
+                "access_rules": ["rod"],
+                "sections": [
+                    {
+                        "name": "Catch 3 Fish",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catch All Fish",
+                        "item_count": 1,
+                        "access_rules": ["journal,$feathers|7|8|7"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3093,
+                        "y": 1559
+                    }
+                ]
+            },
+            {
+                "name": "Catch Fish with Permit",
+                "access_rules": ["$feathers|0|1|0,rod"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3862,
+                        "y": 2283
+                    }
+                ]
+            },
+            {
+                "name": "Camper",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "name": "Bribe",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Return Permit",
+                        "item_count": 1,
+                        "access_rules": ["permit"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4191,
+                        "y": 2644
+                    }
+                ]
+            },
+            {
+                "name": "Blocked Mine Pickaxe 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2292,
+                        "y": 2483
+                    }
+                ]
+            },
+            {
+                "name": "Blocked Mine Pickaxe 2",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2258,
+                        "y": 2526
+                    }
+                ]
+            },
+            {
+                "name": "Blocked Mine Pickaxe 3",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2356,
+                        "y": 2554
+                    }
+                ]
+            },
+            {
+                "name": "Blackwood Trail Lookout Toy Shovel",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5109,
+                        "y": 3776
+                    }
+                ]
+            },
+            {
+                "name": "Shirley's Point Beach",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Seashell",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Toy Shovel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5705,
+                        "y": 4396
+                    }
+                ]
+            },
+            {
+                "name": "Visitor's Center Beach",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Seashell",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Toy Shovel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5225,
+                        "y": 4513
+                    }
+                ]
+            },
+            {
+                "name": "Blackwood Trail Rock Toy Shovel",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5147,
+                        "y": 3112
+                    }
+                ]
+            },
+            {
+                "name": "Beach Hut Cliff Toy Shovel",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5532,
+                        "y": 2871
+                    }
+                ]
+            },
+            {
+                "name": "Secret Island Beach Trail Stick",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5673,
+                        "y": 1400
+                    }
+                ]
+            },
+            {
+                "name": "Below Lighthouse Walkway Stick",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4909,
+                        "y": 2277
+                    }
+                ]
+            },
+            {
+                "name": "Beach Hut Rocky Pool Sand Stick",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5464,
+                        "y": 2482
+                    }
+                ]
+            },
+            {
+                "name": "Cliff Overlooking West River Waterfall Stick",
+                "access_rules": ["$feathers|0|2|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4329,
+                        "y": 4274
+                    }
+                ]
+            },
+            {
+                "name": "Trail to Tough Bird Salesman Stick",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4035,
+                        "y": 3509
+                    }
+                ]
+            },
+            {
+                "name": "North Beach Stick",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2714,
+                        "y": 4468
+                    }
+                ]
+            },
+            {
+                "name": "Beachstickball Court Stick",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2073,
+                        "y": 4136
+                    }
+                ]
+            },
+            {
+                "name": "Stick Under Sid Beach Umbrella",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5739,
+                        "y": 2786
+                    }
+                ]
+            },
+            {
+                "name": "Boat Rental",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 1026,
+                        "y": 3944
+                    }
+                ]
+            },
+            {
+                "name": "Boat Challenge Reward",
+                "access_rules": ["key"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 937,
+                        "y": 3816
+                    }
+                ]
+            },
+            {
+                "name": "Outlook Point Dog Gift",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4699,
+                        "y": 3622
+                    }
+                ]
+            },
+            {
+                "name": "Shell Kid",
+                "access_rules": ["$seashells"],
+                "sections": [
+                    {
+                        "name": "Collect 15 Seashells",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Return",
+                        "item_count": 1,
+                        "access_rules": ["necklace"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5362,
+                        "y": 2437
+                    }
+                ]
+            },
+            {
+                "name": "Taylor the Turtle Headband Gift",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4803,
+                        "y": 3059
+                    }
+                ]
+            },
+            {
+                "name": "Sue the Rabbit Shoes Reward",
+                "access_rules": ["$feathers|0|1|0,headband"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5191,
+                        "y": 3323
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Sunhat",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2333,
+                        "y": 675
+                    }
+                ]
+            },
+            {
+                "name": "Blackwood Forest Golden Feather",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5261,
+                        "y": 2714
+                    }
+                ]
+            },
+            {
+                "name": "Ranger May Shell Necklace Golden Feather",
+                "access_rules": ["necklace"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4884,
+                        "y": 1912
+                    }
+                ]
+            },
+            {
+                "name": "Artist Golden Feather",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5848,
+                        "y": 3821
+                    }
+                ]
+            },
+            {
+                "name": "Visitor Camp Rock Golden Feather",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5565,
+                        "y": 4116
+                    }
+                ]
+            },
+            {
+                "name": "Outlook Cliff Golden Feather",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4850,
+                        "y": 3758
+                    }
+                ]
+            },
+            {
+                "name": "Meteor Lake Cliff Golden Feather",
+                "access_rules": ["$feathers|0|5|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3389,
+                        "y": 2459
+                    }
+                ]
+            },
+            {
+                "name": "Secret Island Peak",
+                "access_rules": ["$feathers|3|5|5"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5906,
+                        "y": 1034
+                    }
+                ]
+            },
+            {
+                "name": "Wristwatch Trade",
+                "access_rules": ["watch"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5681,
+                        "y": 3474
+                    }
+                ]
+            },
+            {
+                "name": "Lighthouse Golden Chest",
+                "access_rules": ["$feathers|2|3|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4825,
+                        "y": 2154
+                    }
+                ]
+            },
+            {
+                "name": "Outlook Golden Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4786,
+                        "y": 3543
+                    }
+                ]
+            },
+            {
+                "name": "Stone Tower Golden Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4129,
+                        "y": 4086
+                    }
+                ]
+            },
+            {
+                "name": "North Cliff Golden Chest",
+                "access_rules": ["$feathers|3|10|10"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 1938,
+                        "y": 3046
+                    }
+                ]
+            },
+            {
+                "name": "Blackwood Cliff Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5418,
+                        "y": 2897
+                    }
+                ]
+            },
+            {
+                "name": "White Coast Trail Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6149,
+                        "y": 2625
+                    }
+                ]
+            },
+            {
+                "name": "Sid Beach Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6008,
+                        "y": 3003
+                    }
+                ]
+            },
+            {
+                "name": "Sid Beach Buried Treasure Chest",
+                "access_rules": ["shovel"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6130,
+                        "y": 3484
+                    }
+                ]
+            },
+            {
+                "name": "Sid Beach Cliff Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6091,
+                        "y": 3539
+                    }
+                ]
+            },
+            {
+                "name": "Visitor's Center Buried Chest",
+                "access_rules": ["shovel"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6022,
+                        "y": 3650
+                    }
+                ]
+            },
+            {
+                "name": "Visitor's Center Hidden Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5687,
+                        "y": 3937
+                    }
+                ]
+            },
+            {
+                "name": "Shirley's Point Chest",
+                "access_rules": ["$feathers|1|2|2"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6005,
+                        "y": 4460
+                    }
+                ]
+            },
+            {
+                "name": "Caravan Cliff Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5489,
+                        "y": 3768
+                    }
+                ]
+            },
+            {
+                "name": "Caravan Arch Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5403,
+                        "y": 3406
+                    }
+                ]
+            },
+            {
+                "name": "King Buried Treasure Chest",
+                "access_rules": ["shovel,$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5022,
+                        "y": 4051
+                    }
+                ]
+            },
+            {
+                "name": "Good Creek Path Buried Chest",
+                "access_rules": ["shovel,$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4897,
+                        "y": 3410
+                    }
+                ]
+            },
+            {
+                "name": "Good Creek Path West Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4414,
+                        "y": 3314
+                    }
+                ]
+            },
+            {
+                "name": "Good Creek Path East Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4293,
+                        "y": 3137
+                    }
+                ]
+            },
+            {
+                "name": "West Waterfall Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4204,
+                        "y": 4647
+                    }
+                ]
+            },
+            {
+                "name": "Stone Tower West Cliff Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4016,
+                        "y": 4403
+                    }
+                ]
+            },
+            {
+                "name": "Bucket Path Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3759,
+                        "y": 2841
+                    }
+                ]
+            },
+            {
+                "name": "Bucket Cliff Chest",
+                "access_rules": ["$feathers|3|5|5"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3729,
+                        "y": 3019
+                    }
+                ]
+            },
+            {
+                "name": "In Her Shadow Buried Treasure Chest",
+                "access_rules": ["shovel,$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4556,
+                        "y": 2166
+                    }
+                ]
+            },
+            {
+                "name": "Meteor Lake Buried Chest",
+                "access_rules": ["shovel,$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3998,
+                        "y": 2202
+                    }
+                ]
+            },
+            {
+                "name": "Meteor Lake Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3967,
+                        "y": 1913
+                    }
+                ]
+            },
+            {
+                "name": "House North Beach Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4410,
+                        "y": 1576
+                    }
+                ]
+            },
+            {
+                "name": "East Coast Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3883,
+                        "y": 1433
+                    }
+                ]
+            },
+            {
+                "name": "Fisherman's Boat",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Chest 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3211,
+                        "y": 1501
+                    }
+                ]
+            },
+            {
+                "name": "Airstream Island Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4507,
+                        "y": 1167
+                    }
+                ]
+            },
+            {
+                "name": "West River Waterfall Head Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3404,
+                        "y": 3740
+                    }
+                ]
+            },
+            {
+                "name": "Old Building Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3289,
+                        "y": 4043
+                    }
+                ]
+            },
+            {
+                "name": "Old Building West Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3350,
+                        "y": 4518
+                    }
+                ]
+            },
+            {
+                "name": "Old Building East Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3221,
+                        "y": 3888
+                    }
+                ]
+            },
+            {
+                "name": "Hawk Peak West Chest",
+                "access_rules": ["$feathers|3|5|5"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2793,
+                        "y": 3411
+                    }
+                ]
+            },
+            {
+                "name": "Hawk Peak East Buried Chest",
+                "access_rules": ["shovel,$feathers|3|5|5"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 3087,
+                        "y": 2496
+                    }
+                ]
+            },
+            {
+                "name": "Hawk Peak Northeast Chest",
+                "access_rules": ["$feathers|3|5|5"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2311,
+                        "y": 2761
+                    }
+                ]
+            },
+            {
+                "name": "Northern East Coast Chest",
+                "access_rules": ["$feathers|0|2|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2584,
+                        "y": 2435
+                    }
+                ]
+            },
+            {
+                "name": "North Coast Chest",
+                "access_rules": ["$feathers|0|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2056,
+                        "y": 2732
+                    }
+                ]
+            },
+            {
+                "name": "North Coast Buried Chest",
+                "access_rules": ["shovel"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 1817,
+                        "y": 2792
+                    }
+                ]
+            },
+            {
+                "name": "Small South Island Buried Chest",
+                "access_rules": ["shovel"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 6111,
+                        "y": 1954
+                    }
+                ]
+            },
+            {
+                "name": "Secret Island Bottom Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5686,
+                        "y": 1231
+                    }
+                ]
+            },
+            {
+                "name": "Secret Island Treehouse Chest",
+                "access_rules": ["$feathers|1|1|1"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5986,
+                        "y": 1168
+                    }
+                ]
+            },
+            {
+                "name": "Sunhat Island Buried Chest",
+                "access_rules": ["shovel"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 2176,
+                        "y": 584
+                    }
+                ]
+            },
+            {
+                "name": "Orange Islands South Buried Chest",
+                "access_rules": ["shovel"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 1481,
+                        "y": 4296
+                    }
+                ]
+            },
+            {
+                "name": "Orange Islands West Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 838,
+                        "y": 4161
+                    }
+                ]
+            },
+            {
+                "name": "Orange Islands North Buried Chest",
+                "access_rules": ["shovel,$feathers|1|1|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 372,
+                        "y": 4256
+                    }
+                ]
+            },
+            {
+                "name": "Orange Islands East Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 343,
+                        "y": 2616
+                    }
+                ]
+            },
+            {
+                "name": "Orange Islands South Hidden Chest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 1067,
+                        "y": 2790
+                    }
+                ]
+            },
+            {
+                "name": "A Stormy View Buried Treasure Chest",
+                "access_rules": ["shovel"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 801,
+                        "y": 3296
+                    }
+                ]
+            },
+            {
+                "name": "Orange Islands Ruins Buried Chest",
+                "access_rules": ["shovel,$feathers|2|4|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 819,
+                        "y": 2936
+                    }
+                ]
+            },
+            {
+                "name": "Lighthouse Race",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Reward",
+                        "item_count": 1,
+                        "access_rules": ["$feathers|2|3|1"]
+                    },
+                    {
+                        "name": "Lose Race",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 4849,
+                        "y": 4424
+                    }
+                ]
+            },
+            {
+                "name": "Old Building Race",
+                "access_rules": ["$feathers|1|5|0"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 1824,
+                        "y": 3037
+                    }
+                ]
+            },
+            {
+                "name": "Hawk Peak Race",
+                "access_rules": ["$feathers|6|8|7"],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full_map",
+                        "x": 5865,
+                        "y": 4122
+                    }
+                ]
+            }
+        ]
+    }
+]

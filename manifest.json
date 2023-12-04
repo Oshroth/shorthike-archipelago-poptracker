@@ -1,0 +1,17 @@
+﻿{
+    "name": "A Short Hike",
+    "game_name": "A Short Hike Archipelago",
+    "package_version": "0.4.4",
+    "package_uid": "shorthike_chandler",
+    "platform": "pc",
+    "author": "Chandler",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.25.3"
+}
