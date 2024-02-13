@@ -485,7 +485,7 @@
                     {
                         "name": "Catch All Fish",
                         "item_count": 1,
-                        "access_rules": ["journal,$feathers|7|8|7"]
+                        "access_rules": ["journal,$feathers|7|9|7"]
                     }
                 ],
                 "map_locations": [
@@ -1016,7 +1016,7 @@
             },
             {
                 "name": "Secret Island Peak",
-                "access_rules": ["$feathers|3|5|5"],
+                "access_rules": ["$feathers|5|7|7"],
                 "sections": [
                     {
                         "item_count": 1
@@ -1891,7 +1891,7 @@
             },
             {
                 "name": "Hawk Peak Race",
-                "access_rules": ["$feathers|6|8|7"],
+                "access_rules": ["$feathers|7|9|7"],
                 "sections": [
                     {
                         "item_count": 1
