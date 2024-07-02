@@ -13,13 +13,14 @@ function feathers(normalF, easyF, bucket, n)
     if n == nil then; n = 0; end
     if n > 10 then; return false; end -- detect 10th step when trying to resolve and abort
     n = n + 1
+    bucket = tonumber(bucket)
 
     local minfeathers = 0
 
     if easy(n) then
-        minfeathers = easyF
+        minfeathers = tonumber(easyF)
     elseif normal(n) then
-        minfeathers = normalF
+        minfeathers = tonumber(normalF)
     elseif hard(n) then
         minfeathers = 0
     end
