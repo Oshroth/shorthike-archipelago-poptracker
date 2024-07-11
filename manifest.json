@@ -11,6 +11,12 @@
             "flags": [
                 "ap"
             ]
+        },
+        "tall": {
+            "display_name": "Map Tracker (Tall)",
+            "flags": [
+                "ap"
+            ]
         }
     },
     "min_poptracker_version": "0.25.3"
