@@ -328,11 +328,13 @@
                 "sections": [
                     {
                         "name": "Golden Feathers",
-                        "item_count": 2
+                        "item_count": 2,
+                        "access_rules": ["$shop|40"]
                     },
                     {
                         "name": "Hat",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["$shop|100"]
                     }
                 ],
                 "map_locations": [
@@ -349,11 +351,13 @@
                 "sections": [
                     {
                         "name": "Golden Feathers",
-                        "item_count": 4
+                        "item_count": 4,
+                        "access_rules": ["$shop|100"]
                     },
                     {
                         "name": "Tuition Payment",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["$shop|400"]
                     }
                 ],
                 "map_locations": [
@@ -904,7 +908,7 @@
             },
             {
                 "name": "Purchase Sunhat",
-                "access_rules": [],
+                "access_rules": ["$shop|100"],
                 "sections": [
                     {
                         "item_count": 1
@@ -1858,7 +1862,7 @@
                     {
                         "name": "Reward",
                         "item_count": 1,
-                        "access_rules": ["$feathers|2|3|1"]
+                        "access_rules": ["$race,$feathers|2|3|1"]
                     },
                     {
                         "name": "Lose Race",
@@ -1875,7 +1879,7 @@
             },
             {
                 "name": "Old Building Race",
-                "access_rules": ["$feathers|1|5|0"],
+                "access_rules": ["$race,$feathers|1|5|0"],
                 "sections": [
                     {
                         "item_count": 1
@@ -1891,7 +1895,7 @@
             },
             {
                 "name": "Hawk Peak Race",
-                "access_rules": ["$feathers|7|9|7"],
+                "access_rules": ["$race,$feathers|7|9|7"],
                 "sections": [
                     {
                         "item_count": 1

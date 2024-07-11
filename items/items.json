@@ -20,10 +20,22 @@
     },
     {
         "name": "Fishing Rod",
-        "type": "toggle",
-        "img": "images/icons/icon_fishingRod.png",
+        "type": "progressive",
         "disabled_img": "images/icons/icon_fishingRod_grey.png",
-        "codes": "rod"
+        "allow_disabled": true,
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/icons/icon_fishingRod.png",
+                "codes": "rod",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/icons/icon_goldenRod.png",
+                "codes": "goldrod",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Fishing Journal",
@@ -100,6 +112,13 @@
         "disabled_img": "images/icons/icon_permit_grey.png",
         "codes": "permit"
     },
+    {
+        "name": "Running Shoes",
+        "type": "toggle",
+        "img": "images/icons/icon_shoes.png",
+        "disabled_img": "images/icons/icon_shoes_grey.png",
+        "codes": "shoes"
+    },
     // Settings
     {
         "name": "Golden Feather Logic",
@@ -121,6 +140,76 @@
             {
                 "img": "images/settings/hard_logic.png",
                 "codes": "logic,hard",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Easier Races",
+        "type": "toggle",
+        "img": "images/settings/easier_races_on.png",
+        "disabled_img": "images/settings/easier_races_off.png",
+        "codes": "easier_races"
+    },
+    {
+        "name": "Shop Check Logic",
+        "type": "progressive",
+        "allow_disabled": false,
+        "initial_stage_idx": 1,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/shop_check/shop_0.png",
+                "codes": "shoplogic,shop0",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/shop_check/shop_1.png",
+                "codes": "shoplogic,shop1",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/shop_check/shop_2.png",
+                "codes": "shoplogic,shop2",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/shop_check/shop_3.png",
+                "codes": "shoplogic,shop3",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/shop_check/shop_4.png",
+                "codes": "shoplogic,shop4",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/shop_check/shop_5.png",
+                "codes": "shoplogic,shop5",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Minimum Shop Check Logic",
+        "type": "progressive",
+        "allow_disabled": false,
+        "initial_stage_idx": 1,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/shop_check/40.png",
+                "codes": "minshop,40",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/shop_check/100.png",
+                "codes": "minshop,100",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/settings/shop_check/400.png",
+                "codes": "minshop,400",
                 "inherit_codes": false
             }
         ]

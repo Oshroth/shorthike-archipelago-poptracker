@@ -78,6 +78,36 @@ function onClear(slot_data)
         end
     end
 
+    if slot_data.settings.easierRaces then
+        Tracker:FindObjectForCode("easier_races").Active = true
+    end
+
+    if slot_data.settings.shopCheckLogic then
+        if slot_data.settings.shopCheckLogic == 0 then
+            Tracker:FindObjectForCode("shoplogic").CurrentStage = 0
+        elseif slot_data.settings.shopCheckLogic == 1 then
+            Tracker:FindObjectForCode("shoplogic").CurrentStage = 1
+        elseif slot_data.settings.shopCheckLogic == 2 then
+            Tracker:FindObjectForCode("shoplogic").CurrentStage = 2
+        elseif slot_data.settings.shopCheckLogic == 3 then
+            Tracker:FindObjectForCode("shoplogic").CurrentStage = 3
+        elseif slot_data.settings.shopCheckLogic == 4 then
+            Tracker:FindObjectForCode("shoplogic").CurrentStage = 4
+        elseif slot_data.settings.shopCheckLogic == 5 then
+            Tracker:FindObjectForCode("shoplogic").CurrentStage = 5
+        end
+    end
+
+    if slot_data.settings.minShopCheckLogic then
+        if slot_data.settings.minShopCheckLogic == 0 then
+            Tracker:FindObjectForCode("minshop").CurrentStage = 0
+        elseif slot_data.settings.minShopCheckLogic == 1 then
+            Tracker:FindObjectForCode("minshop").CurrentStage = 1
+        elseif slot_data.settings.minShopCheckLogic == 2 then
+            Tracker:FindObjectForCode("minshop").CurrentStage = 2
+        end
+    end
+
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}
 

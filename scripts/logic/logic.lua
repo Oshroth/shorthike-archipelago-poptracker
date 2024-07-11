@@ -34,6 +34,54 @@ function feathers(normalF, easyF, bucket, n)
     return has("feather", minfeathers)
 end
 
+function shop(cost, n)
+    if n == nil then; n = 0; end
+    if n > 10 then; return false; end -- detect 10th step when trying to resolve and abort
+    n = n + 1
+    cost = tonumber(cost)
+
+    returnBool = true
+
+    if has("shop1") then
+        returnBool = has("rod")
+    elseif has("shop2") then
+        returnBool = has("shovel")
+    elseif has("shop3") then
+        returnBool = has("rod") and has("shovel")
+    elseif has("shop4") then
+        returnBool = has("goldrod")
+    elseif has("shop5") then
+        returnBool = has("goldrod") and has("shovel")
+    end
+    
+    if cost == 40 then
+        if has("40") then
+            return returnBool
+        else
+            return true
+        end
+    elseif cost == 100 then
+        if has("100") or has("40") then
+            return returnBool
+        else
+            return true
+        end
+    elseif cost == 400 then
+        return returnBool
+    end
+end
+
+function race(n)
+    if n == nil then; n = 0; end
+    if n > 10 then; return false; end -- detect 10th step when trying to resolve and abort
+    n = n + 1
+    if easier_races(n) then
+        return has("shoes")
+    else
+        return true
+    end
+end
+
 function seashells(n)
     if n == nil then; n = 0; end
     if n > 10 then; return false; end -- detect 10th step when trying to resolve and abort
@@ -62,4 +110,11 @@ function hard(n)
     if n > 10 then; return false; end -- detect 10th step when trying to resolve and abort
     n = n + 1
     return has("hard")
+end
+
+function easier_races(n)
+    if n == nil then; n = 0; end
+    if n > 10 then; return false; end -- detect 10th step when trying to resolve and abort
+    n = n + 1
+    return has("easier_races")
 end

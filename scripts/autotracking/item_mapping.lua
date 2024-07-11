@@ -9,7 +9,7 @@ ITEM_MAPPING = {
     [82002] = {"shell", "consumable"},
     [82003] = {"feather", "consumable"},
     [82005] = {"bucket", "toggle"},
-    [82007] = {"rod", "toggle"},
+    [82007] = {"rod,goldrod", "progressive"},
     [82008] = {"shovel", "toggle"},
     [82009] = {"toyshovel", "toggle"},
     [82012] = {"necklace", "toggle"},
@@ -17,5 +17,6 @@ ITEM_MAPPING = {
     [82014] = {"key", "toggle"},
     [82016] = {"journal", "toggle"},
     [82024] = {"headband", "toggle"},
+    [82025] = {"shoes", "toggle"},
     [82026] = {"permit", "toggle"},
 }
