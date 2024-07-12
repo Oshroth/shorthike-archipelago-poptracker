@@ -21,6 +21,7 @@
     {
         "name": "Fishing Rod",
         "type": "progressive",
+        "codes": "fishing",
         "disabled_img": "images/icons/icon_fishingRod_grey.png",
         "allow_disabled": true,
         "loop": false,
