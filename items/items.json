@@ -33,7 +33,7 @@
             },
             {
                 "img": "images/icons/icon_goldenRod.png",
-                "codes": "goldrod",
+                "codes": "rod,goldrod",
                 "inherit_codes": false
             }
         ]
